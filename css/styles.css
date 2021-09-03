@@ -5,10 +5,11 @@
 }
 
 body {
-  padding: 5% 5%;
+  padding: 2% 5%;
   align-items: center;
-  width: auto;
+  width: 1000px;
   margin: auto;
+  background: #f7f6f2;
 }
 
 h1 {
@@ -19,6 +20,14 @@ p {
   font-weight: 700;
 }
 
+.main_container {
+  padding: 0 5%;
+}
+
+.container_block {
+  padding: 10px 10px;
+  margin: 0 1px;
+}
 .container_product {
   display: inline-block;
   width: 207px;
